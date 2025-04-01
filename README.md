@@ -1,0 +1,2 @@
+# moj-projekt
+pierwsze repozytorium
